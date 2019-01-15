@@ -1,0 +1,46 @@
+.header{
+    background-color: #ccc;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    margin: 0px;
+    color:white;
+}
+.one{
+    display: flex;
+    justify-content:flex-start;
+}
+.background{
+    background-color: blue;
+    margin: 0px;
+    padding: 10px;
+    width: 100%;
+    color:white;
+}
+.problem{
+    background-color:purple;
+    padding: 0px;
+    width: 100%;
+    text-align:center;
+    margin: 10px;
+    color:white;
+}
+.solutions{
+    background-color: brown;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    margin: 10px;
+    color:white;
+}
+.donation{
+     background-color: gold;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    margin: 10px;
+}
+.image{
+    width:400px;
+    height:200px;
+}
